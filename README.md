@@ -1,6 +1,8 @@
 # threg
 Fit a threshold regression model (Models) Use threg With (In) R Software
 
+https://www.youtube.com/watch?v=Z8fMbZNeXDU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
